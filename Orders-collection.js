@@ -1,7 +1,7 @@
 Order = {
     _id: ObjectId,
     customerId: ObjectId,
-    items: [
+    item: [
         {
             itemId: ObjectId,
             quantity: number,
