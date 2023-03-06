@@ -24,7 +24,7 @@ USER STORY:
  
    RELATIONSHIPS:
 
-    - A customer can view the items and place an order and also review the order in the cart
+   - A customer can view the items and place an order and also review the order in the cart
   
    - An order can contain only one item of a unique Id but with any amount of quantity required.
   
