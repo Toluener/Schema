@@ -18,7 +18,7 @@ USER STORY:
    the total price of the item selected, the order date, the payment method, the delivery type choosen by the customer, the delivery address and the delivery status.
 
    
-   -Item: The Item has a unique Id, name, category, description, a unit price, status of the item if it is still in stock or not, a product review of the item by 
+   - Item: The Item has a unique Id, name, category, description, a unit price, status of the item if it is still in stock or not, a product review of the item by 
    customers who have purchased the item and information about the seller of the product.
   
  
