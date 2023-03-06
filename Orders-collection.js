@@ -7,7 +7,7 @@ Order = {
             quantity: number,
         }
     ],
-    totalAmount: number,
+    totalPrice: number,
     orderDate: date,
     deliveryType: "string",
     deliveryAddress: "string",
